@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle find-directory",
+        "command": "find-directory:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "find-directory",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "find-directory:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
