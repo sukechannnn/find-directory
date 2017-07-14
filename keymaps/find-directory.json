@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "find-directory:toggle"
+    "cmd-shift-i": "find-directory:toggle"
   }
 }
